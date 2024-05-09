@@ -15,4 +15,4 @@ requirements.
 .. code-block:: bash
 
     sudo apt-get install mingw-w64 python-pip
-    sudo pip install sphinx docutils pyyaml
+    sudo pip2 install sphinx docutils pyyaml
